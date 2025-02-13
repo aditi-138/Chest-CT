@@ -12,7 +12,8 @@ The images are preprocessed and used to train a deep learning model to classify 
 
 ## Dataset
 The dataset is structured as follows:
-```![image](https://github.com/user-attachments/assets/7049e0a2-bdb8-438a-9df8-fe7ac1a62cac)
+![image](https://github.com/user-attachments/assets/d84c097a-a9cf-4559-b035-dfbfb289354e)
+
 
 
 
